@@ -2,7 +2,7 @@
 
 <hr>
 
-* **GitHub Link:** https://github.com/toarnabtrainer/AEC_ML_With_Python_August_2024
+* **GitHub Link:** https://github.com/toarnabtrainer/AEC_ML_With_Python_August_2024 or https://tinyurl.com/2n87yszs
 * **MS-Teams Meeting Link:** https://tinyurl.com/2s3yxjnr
 * **NotePad.PW Link:** https://notepad.pw/bpLgGkjRl9MeljJ19ct2
 
@@ -10,38 +10,38 @@
 
 **Python Download Link:** <br>
 **Anaconda Download Link:** <br>
-https://www.anaconda.com/products/distribution
+* https://www.anaconda.com/products/distribution
 
 **How to Install Anaconda on Windows 10 (2022):** <br>
-https://www.youtube.com/watch?v=UTqOXwAi1pE
+* https://www.youtube.com/watch?v=UTqOXwAi1pE
 
 **How to uninstall Anaconda completely from Windows 10:** <br>
-https://www.youtube.com/watch?v=OUkHXMwu-JY
+* https://www.youtube.com/watch?v=OUkHXMwu-JY
 
 **Online Python Editors:** <br>
-https://onecompiler.com/ <br>
-https://www.onlinegdb.com/
+* https://onecompiler.com/ <br>
+* https://www.onlinegdb.com/
 
 **Python Study Material Links:**<br>
-**Python for you and me:** https://pymbook.readthedocs.io/en/latest/<br>
-**Python Practice Book:** https://anandology.com/python-practice-book/index.html<br>
-**Learn Python Programming (programmiz.com):** https://www.programiz.com/python-programming<br>
-**Learn Python Programming (data-flair):** https://data-flair.training/blogs/python-tutorial/
+* **Python for you and me:** https://pymbook.readthedocs.io/en/latest/<br>
+* **Python Practice Book:** https://anandology.com/python-practice-book/index.html<br>
+* **Learn Python Programming (programmiz.com):** https://www.programiz.com/python-programming<br>
+* **Learn Python Programming (data-flair):** https://data-flair.training/blogs/python-tutorial/
 
 <hr>
 
-**9 Different Distance Measure Techniques:**	https://towardsdatascience.com/9-distance-measures-in-data-science-918109d069fa <br>
-**Elite Data Science Tutorial:**	https://elitedatascience.com/primer <br>
-**Hierarchical Clustering Explained:** https://towardsdatascience.com/hierarchical-clustering-explained-e59b13846da8
+* **9 Different Distance Measure Techniques:**	https://towardsdatascience.com/9-distance-measures-in-data-science-918109d069fa <br>
+* **Elite Data Science Tutorial:**	https://elitedatascience.com/primer <br>
+* **Hierarchical Clustering Explained:** https://towardsdatascience.com/hierarchical-clustering-explained-e59b13846da8
 
 **HTML Color Codes:**<br>
-https://htmlcolorcodes.com/
+* https://htmlcolorcodes.com/
 
 **HTML Text Tutorial Link:**<br>
-https://www.w3schools.com/html/default.asp
+* https://www.w3schools.com/html/default.asp
 
 **Google Drive Link for E-Books on Machine Learning:**<br>
-https://drive.google.com/drive/folders/15ho9XljDUk0X6OHawuQHX5uuzS4XAuut?usp=sharing
+* https://drive.google.com/drive/folders/15ho9XljDUk0X6OHawuQHX5uuzS4XAuut?usp=sharing
 
 <hr>
 
