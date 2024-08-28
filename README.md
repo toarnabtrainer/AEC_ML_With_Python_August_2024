@@ -57,7 +57,7 @@
 * **MS-Office 2013:** https://edu.gcfglobal.org/en/topics/office2013/
 * **MS-Office 2016:** https://edu.gcfglobal.org/en/topics/office2016/
 * **MS-Excel Formulas:** https://edu.gcfglobal.org/en/excelformulas/
-* **50 Tips to Master Excel ebook:** https://drive.google.com/file/d/0ByEvd0vhZtF3Zm9tY09YNWpuUnM/view
+* **50 Tips to Master Excel ebook:** https://app.box.com/folder/282270879960
 * **How to remove password from an Excel Worksheet:** https://www.youtube.com/watch?v=fsVb6id97_E&list=PLmkaw6oRnRv9uEamCt-PXS-bP-rmoxcLc&index=3
 * **MS-Excel Cheat Sheet:**	https://drive.google.com/file/d/1dGDoOiIhFFD71FxUxMO-ZYYE2UYLNGhR/view?usp=sharing
 
