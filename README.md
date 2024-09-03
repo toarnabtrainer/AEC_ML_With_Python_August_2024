@@ -45,7 +45,7 @@
 
 <hr>
 
-* **Link for Project Group Formation Form:** https://bit.ly/3JCZdCx-
+* **Link for Project Group Formation Form:** https://bit.ly/3JCZdCx
 * **Test on Machine Learning:**	https://bit.ly/2ZJeb1z-
 * **Test on Correlation and Regression:** https://bit.ly/3P2ps66-
 
