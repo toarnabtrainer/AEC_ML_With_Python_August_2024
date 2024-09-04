@@ -45,6 +45,13 @@
 
 <hr>
 
+**Streamlit Resources:** <br>
+* **GitHub Repository-1:** https://github.com/laxmimerit/streamlit-tutorials
+* **YouTube Tutorial-1:** https://youtu.be/bZKO8jwOfjg?si=yNhhDZWIDSCxZ25C
+* **YouTube Tutorial-2:** https://www.youtube.com/watch?v=WLwjvWq0GWA
+
+<hr>
+
 * **Link for Project Group Formation Form:** https://bit.ly/3JCZdCx
 * **Test on Machine Learning:**	https://bit.ly/2ZJeb1z-
 * **Test on Correlation and Regression:** https://bit.ly/3P2ps66-
